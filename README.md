@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @blake0713
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in breathing.
+- 🌱 I’m currently learning stuff.
+- 💞️ I’m looking to collaborate on work.
+- 📫 How to reach me?
 -  I identify as: Dangerous
 - 😄 Pronouns: Try/Me
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm 3 foot 4
 
 <!---
 blake0713/blake0713 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
